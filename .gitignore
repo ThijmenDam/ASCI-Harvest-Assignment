@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+# Editor-based HTTP Client requests
+/httpRequests/
+/.idea
+/.idea/
+/build/
+/node_modules/

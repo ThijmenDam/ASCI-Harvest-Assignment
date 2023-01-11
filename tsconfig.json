@@ -1,0 +1,17 @@
+{
+  "include": [
+    "src"
+  ],
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "outDir": "./build",
+    "target": "ES5",
+    "lib": [
+      "ES6",
+      "DOM"
+    ],
+    "declaration": true,
+    "declarationMap": true,
+    "composite": true
+  }
+}
