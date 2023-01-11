@@ -33,7 +33,7 @@ Once you have fulfilled all requirements, you can build and start the applicatio
 The first time you run the application, you should see the following output in your terminal:
 
 ```
->> App strated
+>> App started
 
 >> App finished
 ```
